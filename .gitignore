@@ -1,0 +1,24 @@
+# CMake(General)
+CMakeFiles
+CMakeCache.txt
+cmake_install.cmake
+
+# CMake(MS Compiler)
+ALL_BUILD.vcxproj
+ALL_BUILD.vcxproj.filters
+ALL_BUILD.vcxproj.user
+ZERO_CHECK.vcxproj
+ZERO_CHECK.vcxproj.filters
+ZERO_CHECK.vcxproj.user
+
+# Visual Studio
+.vs
+s.dir
+Debug
+x64
+
+# Project Specific
+s.vcxproj
+s.vcxproj.filters
+s.vcxproj.user
+sys.sln
