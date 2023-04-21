@@ -1,3 +1,19 @@
+//      +--------------------------------------------------------------------------------+
+//      |                                    sys v1.0.0                                  |
+//      |  Modified Date : 2023/4/22                                                     |
+//      |  Introduction : sys                                                            |
+//      |  License : MIT                                                                 |
+//      |  Platform : Windows, Linux, macOS                                              |
+//      |  C Required Version : C 90                                                     |
+//      |  API Family : https://github.com/CodeMouse179/sys                              |
+//      |  Repository : https://github.com/CodeMouse179/sys                              |
+//      |                                                                                |
+//      |                             Designer : CodeMouse179                            |
+//      |  Email : codemouse179@gmail.com                                                |
+//      |  Github : https://github.com/CodeMouse179                                      |
+//      |  Bilibili : https://space.bilibili.com/3461577785215838                        |
+//      +--------------------------------------------------------------------------------+
+
 #ifndef SYS_H
 #define SYS_H
 
