@@ -1,3 +1,7 @@
+// Example of sys.h
+// Programmer : CodeMouse179
+// Platform : Windows, Linux, macOS
+
 #include "sys.h"
 #include <stdio.h>
 
@@ -121,6 +125,7 @@ void print_current_compiler()
 
 int main()
 {
+#ifdef SYS_H
     example_start();
     print_version();
     print_current_platform();
@@ -129,5 +134,6 @@ int main()
     if (r == 2) print_current_standard();
     print_current_compiler();
     example_end();
+#endif
     return 0;
 }

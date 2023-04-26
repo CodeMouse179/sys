@@ -2,6 +2,7 @@
 CMakeFiles
 CMakeCache.txt
 cmake_install.cmake
+Makefile
 
 # CMake(MS Compiler)
 ALL_BUILD.vcxproj
@@ -22,3 +23,6 @@ s.vcxproj
 s.vcxproj.filters
 s.vcxproj.user
 sys.sln
+
+# POSIX
+s
